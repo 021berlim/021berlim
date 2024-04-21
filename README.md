@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021.berlim/)
 
-![Berlim GitHub stats](https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&theme=transparent)
+![Berlim GitHub stats](https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=021berlim&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
