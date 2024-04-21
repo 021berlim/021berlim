@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Berlim!👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
-![Berlim GitHub stats](https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&theme=dracula)
+![Berlim GitHub stats](https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
