@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o Berlim!👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ![Berlim GitHub stats](https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&theme=transparent)
 
