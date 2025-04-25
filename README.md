@@ -3,8 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c72c3b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
-<p align="center">Estudante do curso Técnico em Informática na FAETEC. Tenho conhecimento em lógica de programação, estrutura de dados, banco de dados relacionais, redes de computadores e manutenção de computadores. 
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais, redes de computadores e manutenção de hardware. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
   
 #
 
@@ -36,7 +35,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>GitHub Stats</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=021berlim&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c72c3b&text_color=FFF&border_radius=3&border_color=c72c3b&icon_color=c72c3b&theme=jolly" alt="GitHub stats">
 
