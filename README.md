@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c72c3b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
-#
 <p align="center">Estudante do curso Técnico em Informática na FAETEC. Tenho conhecimento em lógica de programação, estrutura de dados, banco de dados relacionais, redes de computadores e manutenção de computadores. 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
