@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=c72c3b&color:FFF)](mailto:djtegegames@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-ccc?style=for-the-badge&logo=microsoft-outlook&logoColor=c72c3b&color:white)](mailto:djtegegames@gmail.com)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021berlim/)
+[![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
 
 <h3 align="left">My Stack ~</h3>
