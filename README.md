@@ -23,8 +23,12 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 
 <h3 align="left">Certifications</h3>
 <div align="left">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64d2638b-523f-4a72-8d72-43ffbf67ff35" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[![Linux Foundation Certified](https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
+
+
 </div>
+
 <h3 align="left">My Stack</h3>
 
 <div align="left">
