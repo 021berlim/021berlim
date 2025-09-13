@@ -8,7 +8,6 @@
 Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais, redes de computadores e manutenção de hardware. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
 </p>
 
-  
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -20,13 +19,10 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 [![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](malito:djtegegames@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
-
 <h3 align="left">Certifications</h3>
 <div align="left">
 
 [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-c72c3b?style=for-the-badge&logo=linuxfoundation)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
-
-
 
 </div>
 
@@ -53,13 +49,12 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=021berlim&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c72c3b&text_color=FFF&border_radius=3&border_color=c72c3b&icon_color=c72c3b&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=021berlim&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c72c3b&text_color=FFF&border_radius=3&border_color=c72c3b&icon_color=c72c3b&ring_color=c72c3b" alt="GitHub stats">
 
-  <a href="https://github.com/021berlim/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=021berlim&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c72c3b&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=c72c3b&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021berlim&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c72c3b&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=c72c3b" alt="Most Used Languages">
   </a>
 </div>
-
 
 #
 
@@ -68,5 +63,3 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake.svg">
 </picture>
-
-
