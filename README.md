@@ -16,14 +16,14 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 <h3 align="left">Connect with me!</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c72c3b?style=for-the-badge&logo=todoist&logoColor=white)](https://protocol-motta.vercel.app)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-c72c3b?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
-[![Email](https://img.shields.io/badge/Email-c72c3b?logo=gmail&logoColor=white)](malito:djtegegames@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%c72c3b.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
+[![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](malito:djtegegames@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
 
 <h3 align="left">Certifications</h3>
 <div align="left">
-[![Linux Foundation Certified](https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64d2638b-523f-4a72-8d72-43ffbf67ff35" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 <h3 align="left">My Stack</h3>
 
