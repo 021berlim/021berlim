@@ -3,7 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c72c3b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
-<p align="center">Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais, redes de computadores e manutenção de hardware. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
+
+<p align="justify">
+Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais, redes de computadores e manutenção de hardware. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
+</p>
+
   
 #
 
@@ -11,12 +15,17 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-c72c3b?style=for-the-badge&logo=microsoft-outlook&logoColor=c72c3b&color:white)](mailto:djtegegames@gmail.com)
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
-[![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021berlim/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c72c3b?style=for-the-badge&logo=todoist&logoColor=white)](https://protocol-motta.vercel.app)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-c72c3b?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
+[![Email](https://img.shields.io/badge/Email-c72c3b?logo=gmail&logoColor=white)](malito:djtegegames@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%c72c3b.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Certifications</h3>
+<div align="left">
+[![Linux Foundation Certified](https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
+</div>
+<h3 align="left">My Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -26,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
