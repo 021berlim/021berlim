@@ -58,10 +58,13 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 
 #
 
-# Contribuições
+#
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/021berlim/021berlim/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/021berlim/021berlim/output/github-snake.svg">
-</picture>
+<div align="center">
+  <h3>Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/021berlim/021berlim/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
