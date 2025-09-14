@@ -19,15 +19,15 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 [![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](malito:djtegegames@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
-#
-
 <h3 align="left">Certifications</h3>
 <div align="left">
 
 [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-c72c3b?style=for-the-badge&logo=linuxfoundation)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
 
 </div>
+
 #
+
 <h3 align="left">My Stack</h3>
 
 <div align="left">
