@@ -24,8 +24,8 @@ jobs:
 
           # Caminhos de saída dos arquivos da animação com configurações aprimoradas
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=c72c3b
-            dist/github-contribution-grid-snake-dark.svg?color_snake=c72c3b&palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23c72c3b
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c72c3b&palette=github-dark
 
       # Faz push dos arquivos gerados para a branch output
       - uses: crazy-max/ghaction-github-pages@v3.1.0
