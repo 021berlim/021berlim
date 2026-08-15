@@ -5,7 +5,7 @@
 </div>
 
 <p align="justify">
-E aí! Sou João Motta, técnico em Informática pela FAETEC. Curto lógica de programação, estrutura de dados, banco de dados, redes e também gosto de colocar a mão na massa em hardware. Vivo testando coisa nova e correndo atrás da próxima tecnologia, sempre tentando transformar o que aprendo em algo que funcione de verdade na prática.
+E aí! Sou João Motta, técnico em Informática pela FAETEC e movido a café, curiosidade e um certo carinho por resolver problema difícil. Curto mexer com lógica, programação, redes e até colocar a mão na massa em hardware. Vivo testando coisa nova e correndo atrás da próxima tecnologia. A ideia é sempre transformar aprendizado em algo que funcione de verdade (e que, de preferência, não quebre em produção 😅)
 </p>
 
 #
@@ -29,28 +29,9 @@ E aí! Sou João Motta, técnico em Informática pela FAETEC. Curto lógica de p
 
 #
 
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h3 style="margin:0;">My Stack</h3>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
-    </td>
-  </tr>
-</table>
+<img align="right" height="80" alt="stack icons" src="https://skillicons.dev/icons?i=html,css,js,java,csharp,mysql,docker" />
+
+<h3 align="left">My Stack</h3>
 
 #
 
