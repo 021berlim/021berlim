@@ -5,7 +5,7 @@
 </div>
 
 <p align="justify">
-E aí! Sou João Motta, técnico em Informática pela FAETEC e movido a café, curiosidade e um certo carinho por resolver problema difícil. Curto mexer com lógica, banco de dados, redes e até colocar a mão na massa em hardware. Vivo testando coisa nova e correndo atrás da próxima tecnologia. A ideia é sempre transformar aprendizado em algo que funcione de verdade (e que, de preferência, não quebre em produção 😅).
+E aí! Sou João Motta, técnico em Informática pela FAETEC. Curto lógica de programação, estrutura de dados, banco de dados, redes e também gosto de colocar a mão na massa em hardware. Vivo testando coisa nova e correndo atrás da próxima tecnologia, sempre tentando transformar o que aprendo em algo que funcione de verdade na prática.
 </p>
 
 #
@@ -29,32 +29,36 @@ E aí! Sou João Motta, técnico em Informática pela FAETEC e movido a café, c
 
 #
 
-<div align="left" style="display:flex; align-items:center; justify-content:space-between; width:100%;">
-  <h3 style="margin:0;">My Stack</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <h3 style="margin:0;">My Stack</h3>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
+    </td>
+  </tr>
+</table>
 
 #
 
 <div align="center">
   <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&line_height=25&hide=issues&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&icon_color=c72c3b&border_color=c72c3b&border_radius=8&rank_icon=github" alt="GitHub stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021berlim&layout=compact&hide_title=false&langs_count=6&card_width=320&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&border_color=c72c3b&border_radius=8" alt="Most Used Languages" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api?username=021berlim&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&line_height=25&hide=issues&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&icon_color=c72c3b&border_color=c72c3b&border_radius=8&rank_icon=github" alt="GitHub stats" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=021berlim&layout=compact&hide_title=false&langs_count=6&card_width=320&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&border_color=c72c3b&border_radius=8" alt="Most Used Languages" height="195" />
 </div>
 
 #
