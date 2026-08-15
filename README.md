@@ -5,7 +5,7 @@
 </div>
 
 <p align="justify">
-Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais, redes de computadores e manutenção de hardware. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
+E aí! Sou João Motta, técnico em Informática pela FAETEC e movido a café, curiosidade e um certo carinho por resolver problema difícil. Curto mexer com lógica, banco de dados, redes e até colocar a mão na massa em hardware. Vivo testando coisa nova e correndo atrás da próxima tecnologia. A ideia é sempre transformar aprendizado em algo que funcione de verdade (e que, de preferência, não quebre em produção 😅).
 </p>
 
 #
@@ -16,10 +16,11 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c72c3b?style=for-the-badge&logo=todoist&logoColor=white)](https://protocol-motta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaodavidferreiradamotta/)
-[![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](malito:djtegegames@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:djtegegames@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-c72c3b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/021berlim/)
 
 <h3 align="left">Certifications</h3>
+
 <div align="left">
 
 [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-c72c3b?style=for-the-badge&logo=linuxfoundation)](https://www.credly.com/badges/64d2638b-523f-4a72-8d72-43ffbf67ff35/public_url)
@@ -28,34 +29,32 @@ Olá! Sou João Motta, estudante de Técnico em Informática na FAETEC, com sól
 
 #
 
-<h3 align="left">My Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+<div align="left" style="display:flex; align-items:center; justify-content:space-between; width:100%;">
+  <h3 style="margin:0;">My Stack</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
+  </div>
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=021berlim&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c72c3b&text_color=FFF&border_radius=3&border_color=c72c3b&icon_color=c72c3b&ring_color=c72c3b" alt="GitHub stats">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021berlim&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c72c3b&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=c72c3b" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=021berlim&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&line_height=25&hide=issues&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&icon_color=c72c3b&border_color=c72c3b&border_radius=8&rank_icon=github" alt="GitHub stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021berlim&layout=compact&hide_title=false&langs_count=6&card_width=320&theme=dark&bg_color=000000&title_color=c72c3b&text_color=ffffff&border_color=c72c3b&border_radius=8" alt="Most Used Languages" height="195" />
 </div>
 
 #
